@@ -21,6 +21,7 @@ namespace IntroduzioneThread
 
             //avvio thread
             t1.Start(); //il metodo start equivale al fork
+            t1.Join(); //prima di procedere con il codice sottostante attendo la fine del thread t1
             t2.Start();
 
             for(int i = 0; i < 100; i++)
@@ -30,7 +31,7 @@ namespace IntroduzioneThread
 
             }
 
-            try
+           /* try
             {
 
                 t1.Abort(); //Uccisione di un thread (attenzione a utilizzarlo perchè può essere non supportato e potrebbe generare eccezioni)
@@ -42,7 +43,7 @@ namespace IntroduzioneThread
                 Console.WriteLine("Errore nell'uccisione nel thread1: {0}", ex.Message);
 
             }
-
+           */
 
             Console.ReadLine();
 
