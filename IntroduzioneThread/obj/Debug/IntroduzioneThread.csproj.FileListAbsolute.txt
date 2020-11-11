@@ -1,0 +1,7 @@
+C:\Users\alanm\Documents\GitHubProgetti\IntroduzioneThread\IntroduzioneThread\bin\Debug\IntroduzioneThread.exe.config
+C:\Users\alanm\Documents\GitHubProgetti\IntroduzioneThread\IntroduzioneThread\bin\Debug\IntroduzioneThread.exe
+C:\Users\alanm\Documents\GitHubProgetti\IntroduzioneThread\IntroduzioneThread\bin\Debug\IntroduzioneThread.pdb
+C:\Users\alanm\Documents\GitHubProgetti\IntroduzioneThread\IntroduzioneThread\obj\Debug\IntroduzioneThread.csprojAssemblyReference.cache
+C:\Users\alanm\Documents\GitHubProgetti\IntroduzioneThread\IntroduzioneThread\obj\Debug\IntroduzioneThread.csproj.CoreCompileInputs.cache
+C:\Users\alanm\Documents\GitHubProgetti\IntroduzioneThread\IntroduzioneThread\obj\Debug\IntroduzioneThread.exe
+C:\Users\alanm\Documents\GitHubProgetti\IntroduzioneThread\IntroduzioneThread\obj\Debug\IntroduzioneThread.pdb
