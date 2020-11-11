@@ -30,6 +30,20 @@ namespace IntroduzioneThread
 
             }
 
+            try
+            {
+
+                t1.Abort(); //Uccisione di un thread (attenzione a utilizzarlo perchè può essere non supportato e potrebbe generare eccezioni)
+
+            }
+            catch(Exception ex)
+            {
+
+                Console.WriteLine("Errore nell'uccisione nel thread1: {0}", ex.Message);
+
+            }
+
+
             Console.ReadLine();
 
         }
